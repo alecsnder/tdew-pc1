@@ -1,3 +1,3 @@
 class Bookmark < ActiveRecord::Base
-has_many :tag
+has_many :tags
 end

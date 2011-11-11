@@ -1,3 +1,3 @@
 class Tag < ActiveRecord::Base
-belong_to :bookmark
+belongs_to :bookmark
 end
